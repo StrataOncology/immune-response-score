@@ -16,4 +16,4 @@ Outputs:
 - immunotherapy response score (IRS); higher values predict increased benefit
 
 Note:
-Expression values should be provided in log base 2 transformed normalized read counts per million; values for each gene should be median centered across a representative reference clinical population
+- Expression values should be provided in log base 2 transformed normalized read counts per million; values for each gene should be median centered across a representative reference clinical population
