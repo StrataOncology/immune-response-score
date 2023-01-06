@@ -2,7 +2,7 @@
 
 Strata Oncology Immunotherapy Response Score
 
-Transforms normalized expression and TMB values into an immunotherapy response prediction score
+Transforms normalized expression and TMB values derived from Ion Torrent sequencing data into an immunotherapy response prediction score
 
 Inputs:
 - ADAM12 expression
